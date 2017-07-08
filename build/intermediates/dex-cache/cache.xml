@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/7052a30c3beecb0b4b157eb9b5692d4c6de79dc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_b0d024733706ebb6e5ad04553ac122143f35c2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/83b008421a807ae3643061c07c794dc4a7f3d55a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_2a9127e07dfe57334104331de8034f919dcf27ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.0/15f8abc7f1414bbffca8d32b73097223d3a83847/library-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15f8abc7f1414bbffca8d32b73097223d3a83847">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/library-1.0.0_80712d497fe3b8ad0eb2c001f28a81f5ee036af6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/702a4658745cc4bacafe8d8f5671a131a3a33f1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_f0506ed101131b47b07ecf957251878b9319de1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/ca8be012f1c0394735eb25093597cc3a1626bae7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_c18316c75f77397f9111b3c279f2bffd5d2cf7ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/696d46c8be7228afcd1ad993ec49e7c953ceafe2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_070be5aebf95dea6f2917b440246d13bca30f1ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5897bb18366082b0cab5703e6116102facac287a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/63fa11fac16c1d4023786c7b3bb49efb32673f07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_f3269d17f5d2602bfd2c745b6f4e0e4f9835a358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/4f271d9696aaa0fc38cdad1a035da9287dafacc0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_f9d69a1b33ae1d2355f0fc026b5a6ebde5c70ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_f25107d217421c186de116ccf7ae04026831c002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/8e990889e4493f2be0734a9b4ec2d881ea2eae7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_7adf03ef52a2c6c9af01b3e15b2584a30dfc5d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/1ef6435b7ddde9507de16f6e9fc2ce1042309213/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_01084169839498525c87cd38589e5edbab9f6b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marceloretamal/.android/build-cache/417a8ec1b2d517a43c6e2c8a02abacbaa9fe2b2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/marceloretamal/AndroidStudioProjects/¿Quécocinamoshoy/app/build/intermediates/pre-dexed/debug/classes_7c51a19664e70cf27e063f2b096594915103c111.jar" />
+    </item>
+
+</items>
